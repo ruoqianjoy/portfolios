@@ -2,11 +2,17 @@
 
 ---
 
-### Project Samples
+### Data Visualization Samples
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/profile/shuchang.liang#!/vizhome/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
--	Transformed large data from session and hit levels using Google BigQuery into a unnested, relational table (1.4-million records).
--	Built a dynamic KPI dashboard which displays monthly or yearly traffic (total sessions, average pageviews, average duration on page) per source and per location, acquisition amounts per channel, and bounce rate per page.
+[Tableau](https://public.tableau.com/app/profile/joy4396)
+-	Connecting to a data source
+-	Creating simple graphs and visuals
+-	Basic interactive dashboard
+-	Understand and use different joins in Tableau (INNER JOIN, LEFT/RIGHT JOIN, FULL JOIN)
+-	Creating a storyline and advanced dashboard
+-	Practice problems:
+-	    abc
+-	    abc
 <img src="images/Google Analytics 1.png?raw=true"/>
 <img src="images/Google Analytic KPI.png?raw=true"/>
 
@@ -20,6 +26,7 @@
 <img src="images/Retention Rate.png?raw=true"/>
 <img src="images/Probability of customer being active.png?raw=true"/>
 
+### Data Science Samples
 
 ---
 [Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
