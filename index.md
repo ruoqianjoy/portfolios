@@ -11,8 +11,10 @@
 -	Understand and use different joins in Tableau (INNER JOIN, LEFT/RIGHT JOIN, FULL JOIN)
 -	Creating a storyline and advanced dashboard
 -	Practice problems:
--	    abc
--	    abc
+-	    Long-term US Unemployment Stats by gender and age
+-	    Department store sale performance report by employee, region, product and different months
+-	    World CO2 Emissions
+-	    World life expectancy by countries and years
 <img src="images/Google Analytics 1.png?raw=true"/>
 <img src="images/Google Analytic KPI.png?raw=true"/>
 
