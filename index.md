@@ -22,13 +22,14 @@
 
 ---
 [Power BI](https://github.com/ruoqianjoy/PowerBI_Reports)
--	Performed analysis using rollup and drill down, slice and dice, sort and rank on 1 year of historical sales data for a global online retailer to compare monthly performance (e.g., growth rate, numbers of active customers, new customer ratio and retention rate, etc.)
--	Performed SWOT analysis on consumer marketing initiatives.
--	Used K-means to segment customers into 3 clusters (high, medium and low value), based on their recency, frequency and monetary values.
--	Performed customer lifetime value (CLV) analysis by using BG-NBD Model, and cohort analysis (retention over user & product lifetime).
--	A GridSearchCV tuned Random Forest multi-class Classifier (84% accuracy) was implemented to predict the CLV classes.
+-	Query Editor: Extract-Transform-Load Data
+-	Model: Relationships and Data Analysis Expressions
+-	Provided actionable insights of Superstore department sales by country, category and customer
+-	Explored Canadian disaster incidents by years, type of disaster, fatality and location
+-	Built supply chain report by looking into its delivery status, shipping mode and delayed orders status
 <img src="images/Superstore Sales Report_PowerBI.png?raw=true"/>
 <img src="images/Canadian Disaster Database_Joy.png?raw=true"/>
+<img src="images/supply chain.png?raw=true"/>
 
 ### Data Science Samples
 
