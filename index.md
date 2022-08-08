@@ -10,6 +10,7 @@
 -	Basic interactive dashboard
 -	Understand and use different joins in Tableau (INNER JOIN, LEFT/RIGHT JOIN, FULL JOIN)
 -	Creating a storyline and advanced dashboard
+
 -	Practice problems:
 -	    Long-term US Unemployment Stats by gender and age
 -	    Department store sale performance report by employee, region, product and different months
