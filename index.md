@@ -28,7 +28,7 @@
 -	Explored Canadian disaster incidents by years, type of disaster, fatality and location
 -	Built supply chain report by looking into its delivery status, shipping mode and delayed orders status
 <img src="images/Superstore Sales Report_PowerBI.png?raw=true"/>
-<img src="images/Canadian Disaster Database_Joy.png?raw=true"/>
+<img src="images/Canadian Disaster Database.png?raw=true"/>
 <img src="images/supply chain.png?raw=true"/>
 
 ### Data Science Samples
