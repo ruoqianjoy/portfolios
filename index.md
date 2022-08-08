@@ -33,6 +33,14 @@
 ### Data Science Samples
 
 ---
+[Predict Household Electricity Consumption with Machine Learning (Machine Learning, Python, Excel)](https://github.com/ruoqianjoy/Projects/blob/main/Retrieving%20and%20EDA%20in%20MySQL_Credit%20Risk%20Analytics.sql)
+-	use energy/electricity usage related charactistics like housing unit, usage patterns, and household demographics to build a model that will allow us to understand the status and project future consumption trends
+-	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
+-	Implemented Artificial Neural Networks (ANN) for regression and fitting
+-	Evaluated the performance of the model.
+<img src="images/Random Forest AOC.png?raw=true"/>
+
+---
 [Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/ruoqianjoy/Projects/blob/main/Retrieving%20and%20EDA%20in%20MySQL_Credit%20Risk%20Analytics.sql)
 -	Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records using SQL.
 -	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
