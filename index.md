@@ -28,7 +28,7 @@
 -	Performed customer lifetime value (CLV) analysis by using BG-NBD Model, and cohort analysis (retention over user & product lifetime).
 -	A GridSearchCV tuned Random Forest multi-class Classifier (84% accuracy) was implemented to predict the CLV classes.
 <img src="images/Superstore Sales Report_PowerBI.png?raw=true"/>
-<img src="images/Probability of customer being active.png?raw=true"/>
+<img src="images/Canadian Disaster Database_Joy.png?raw=true"/>
 
 ### Data Science Samples
 
