@@ -15,8 +15,9 @@
 -	    Department store sale performance report by employee, region, product and different months
 -	    World CO2 Emissions
 -	    World life expectancy by countries and years
-<img src="images/Google Analytics 1.png?raw=true"/>
-<img src="images/Google Analytic KPI.png?raw=true"/>
+<img src="images/tab1.png?raw=true"/>
+<img src="images/tab2.png?raw=true"/>
+<img src="images/tab3.png?raw=true"/>
 
 ---
 [Online Retailer Marketing Analysis (Machine Learning, Feature Engineering, Python)](https://github.com/shuchangliang/Projects/blob/master/LTV%20%26%20Predicting%20Next%20Purchase%20Day.ipynb)
