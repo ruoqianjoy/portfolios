@@ -35,7 +35,7 @@
 
 ---
 [Predict Household Electricity Consumption with Machine Learning (Machine Learning, Python, Excel)](https://github.com/ruoqianjoy/Projects/blob/main/Electricity%20Consumption%20Modelling_JoyWang.ipynb)
--	use energy/electricity usage related charactistics like housing unit, usage patterns, and household demographics to build a model that will allow us to understand the status and project future consumption trends
+-	Used energy/electricity usage related charactistics like housing unit, usage patterns, and household demographics to build a model that will allow us to understand the status and project future consumption trends
 -	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
 -	Implemented Artificial Neural Networks (ANN) for regression and fitting
 -	Evaluated the performance of the model
