@@ -21,7 +21,7 @@
 <img src="images/tab3.png?raw=true"/>
 
 ---
-[Power BI](https://github.com/shuchangliang/Projects/blob/master/LTV%20%26%20Predicting%20Next%20Purchase%20Day.ipynb)
+[Power BI](https://github.com/ruoqianjoy/PowerBI_Reports)
 -	Performed analysis using rollup and drill down, slice and dice, sort and rank on 1 year of historical sales data for a global online retailer to compare monthly performance (e.g., growth rate, numbers of active customers, new customer ratio and retention rate, etc.)
 -	Performed SWOT analysis on consumer marketing initiatives.
 -	Used K-means to segment customers into 3 clusters (high, medium and low value), based on their recency, frequency and monetary values.
